@@ -23,7 +23,9 @@ I'm a full stack Data Analyst..
 5. Numpy
 6. Pandas
 7. Python
-8. Statistical Analysis
+8. Seaborn
+9. Matplotlib
+10. Statistical Analysis
 
 
 ## Summary of my Journey
