@@ -3,7 +3,7 @@
 
 # Hello, I'm Jothsna 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/jothsnapraveena?label=Follow&style=social)](https://github.com/jothsnapraveena)
+(https://img.shields.io/github/jothsnapraveena?label=Follow&style=social)](https://github.com/jothsnapraveena)
 
 Currently pursuing Masters in Data Analytics at Clark University,Worcester,MA,USA.
 
