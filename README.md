@@ -26,23 +26,23 @@ I'm a full stack Data Analyst..
 8. Seaborn
 9. Matplotlib
 10. Statistical Analysis
+11. Machine Learning(Regression,Classification,Random Forest)
+12. Tableau
 
 
 ## Summary of my Journey
-👩‍💻 Started as an Electrical Engineer
-
-🧠 Masters in Power Systems
-
-👯‍♀️ Worked as an Assistant Professor and currtently 
-   working as an Assistant Electrical Engineer
-
-🤔 I'm looking for help with career tranistion into Data Analytics
-
-💬 More details loading...
-
-📫 ...
-
-😄 ...
+Hello, I'm delighted to introduce myself as Jothsna.Currently I am doing Masters in Data Analytics at Clark University,Worcester,MA,USA.
+I've spent four years as an Assistant Professor in the Electrical and Electronics Engineering field, teaching a wide array of subjects.
+After that, I transitioned to the role of an Assistant Engineer at an electricity board.
+During my career, I often faced challenges when addressing public complaints, primarily because we lacked the necessary comprehensive
+data to understand and solve the issues causing frequent power interruptions. 
+To tackle this problem, I took it upon myself to gather the data needed to uncover the root causes of these interruptions.
+This experience ignited my interest in data analysis, prompting me to embark on a journey of self-improvement. 
+Fueled by a strong desire to learn, I completed a series of certification courses on Coursera, ultimately earning a 
+Postgraduate Certification in Data Science from Indian Institue of Information Technology Bangalore(IIITB). 
+Along this educational path, I gained a solid grasp of fundamental concepts like inferential statistics, 
+data analysis using tools like Pandas and NumPy, and the intricacies of machine learning algorithms.
+At this stage in my career, I'm eager to further develop my skills and apply them to real-world problems.
 
 
 
