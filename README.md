@@ -31,7 +31,7 @@ Thank you for visiting, and let's embark on this data-driven journey together!
 ## My Projects
 I did Covid19 Data Exploration using SQL https://github.com/jothsnapraveena/PortfolioSQLProject
 
-You can explore more of my work by visiting my [GitHub repositories]https://github.com/jothsnapraveena).
+You can explore more of my work by visiting my [GitHub repositories] https://github.com/jothsnapraveena?tab=repositories.
 
 
 
