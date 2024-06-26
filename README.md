@@ -40,7 +40,7 @@ You can explore more of my work by visiting my [GitHub repositories] https://git
 I'm always open to new opportunities and collaborations. Feel free to reach out to me:
 
 - 📧 Email: jothsnapraveena1421@gmail.com
-- 📫 connect with me on [LinkedIn](linkedin.com/in/jothsna).
+- 📫 connect with me on [LinkedIn](https://www.linkedin.com/in/jothsna/).
   
 
 
