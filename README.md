@@ -3,34 +3,47 @@
 
 
 ## 🌟 About Me
-I am a passionate **Data Scientist** and **AI Enthusiast** with a strong background in **Machine Learning**, **Deep Learning**, and **Software Development**. I enjoy solving real-world problems using cutting-edge technologies and thrive on learning and applying innovative solutions.
+About Me
+I am a Lead AI Architect, Data Scientist, and AI Researcher with expertise in Machine Learning, Deep Learning, MLOps, and Scalable AI Systems. Passionate about GenAI, LLMs, and AI-driven applications, I enjoy building real-world AI solutions that solve complex problems efficiently. My work spans software development, AI architecture, cloud infrastructure, and data engineering.
 
 ---
 
-## 🚀 My Skills
+🚀 My Skills
+🖥️ Programming Languages:
+Python
+SQL
+R
+Bash
 
-### Programming Languages:
-- Python
-- SQL
-- R
+⚡ AI & Machine Learning:
+TensorFlow, PyTorch
+LangChain, OpenAI, LlamaIndex
+Hugging Face, Transformers
+NLP, Computer Vision, Time Series Forecasting
+Model Quantization & Distillation
 
+🔧 Frameworks & Tools:
+FastAPI, Flask, Streamlit
+Scikit-learn, Pandas, NumPy
+MLflow, Weights & Biases, DVC
+Apache Airflow, Prefect
 
-### Frameworks & Tools:
-- TensorFlow, PyTorch
-- LangChain, OpenAI
-- Streamlit, Flask
-- Pandas, NumPy, Scikit-learn
+🏛️ Databases & Big Data:
+PostgreSQL, MySQL, Microsoft SQL Server
+Snowflake, BigQuery
+NoSQL (MongoDB, Redis)
 
-### Databases:
-- PostgreSQL, MySQL
-- Microsoft SQL Server
+☁️ Cloud & DevOps:
+AWS (SageMaker, Lambda, EC2, S3, Athena, Glue, Kinesis)
+Azure (Data Factory, Synapse, Functions)
+Docker, Kubernetes, CI/CD Pipelines
+Terraform, Serverless Framework
 
-### Cloud & DevOps:
-- AWS (SageMaker, EC2, Athena, Glue, Kinesis)
-- Docker, CI/CD Pipelines
-- Azure
+🔥 AI Infrastructure & Optimization:
+AI System Design & Scalability
+API Handling, Rate Limiting, Caching, Circuit Breakers
+Low Latency AI Applications
 
----
 
 ## 🌐 Projects
 Here are a few projects I've worked on:
