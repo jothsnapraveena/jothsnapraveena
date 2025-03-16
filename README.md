@@ -3,8 +3,8 @@
 
 
 ## 🌟 About Me
-About Me
-I am a Lead AI Architect, Data Scientist, and AI Researcher with expertise in Machine Learning, Deep Learning, MLOps, and Scalable AI Systems. Passionate about GenAI, LLMs, and AI-driven applications, I enjoy building real-world AI solutions that solve complex problems efficiently. My work spans software development, AI architecture, cloud infrastructure, and data engineering.
+
+I am an AI architect, data scientist, and AI researcher with expertise in machine learning, deep learning, MLOps, and scaleable AI systems. Passionate about GenAI, LLMs, and AI-driven applications, I enjoy building real-world AI solutions that solve complex problems efficiently. My work spans software development, AI architecture, cloud infrastructure, and data engineering.
 
 ---
 
